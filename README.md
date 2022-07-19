@@ -15,7 +15,7 @@
 
 ## Deployment
 
-Depolyment link whack-a-mole-game-rg.netlify.app
+Depolyment link https://whack-a-mole-game-rg.netlify.app
 
 ## Features
 
