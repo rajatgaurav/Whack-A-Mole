@@ -15,7 +15,7 @@
 
 ## Deployment
 
-Depolyment link https://shivansh63.github.io/Whack_A_Mole/
+Depolyment link 
 
 ## Features
 
